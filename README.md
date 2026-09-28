@@ -15,12 +15,7 @@ Para procesar otros archivos:
 python main.py ruta\gramatica.txt otra\gramatica.txt
 ```
 
-## Pruebas
-
-```powershell
-python -m unittest discover -v
-```
 
 ## Video
 
-Enlace de YouTube no listado: **PENDIENTE**
+Enlace de YouTube no listado: https://youtu.be/COkr-YoPthk
